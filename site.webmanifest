@@ -1,0 +1,22 @@
+{
+  "name": "AutoTribe - UAE's Premium Auto Service",
+  "short_name": "AutoTribe",
+  "icons": [
+    {
+      "src": "/img/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/img/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#060810",
+  "background_color": "#060810",
+  "display": "standalone",
+  "start_url": "/"
+}
